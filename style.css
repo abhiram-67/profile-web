@@ -59,7 +59,7 @@ a {
 }
 
 a:hover {
-  color: grey;
+  color: #ffffff;
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
